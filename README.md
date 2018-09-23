@@ -2,7 +2,7 @@
 
 ## 04.09.2018 - 08.09.2018 – неделя 1
 
-+ Работа 1.
++  [Работа 1.Установка Node](https://github.com/MozartArthur/Web/blob/master/work1.node.md "Установка Node")
 
 ## 11.09.2018 - 15.09.2018 – неделя 2
 
