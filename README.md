@@ -1,17 +1,14 @@
 # Web - проектирование
 
-## 04.09.2018 - 08.09.2018 – неделя 1
 
-+  [Работа 1. Установка Node](https://github.com/MozartArthur/Web/blob/master/work1.node.md "Установка Node")
-+  [Работа 2. XML и валидация]( "XML и валидация")
-+  [Работа 3. Лабораторное занятие 08.09.2018](https://github.com/MozartArthur/Web/blob/master/08-09-2018.md "Лабораторное занятие 08.09.2018")
-
-## 11.09.2018 - 15.09.2018 – неделя 2
-
-+  [Работа 4. схемы XSD]( "схемы XSD")
-
-## 18.09.2018 - 22.09.2018 - неделя 3
-
-+  [Работа 5. Введение в XSL]( "Введение в XSL")
-+  [Работа 6. Введение JS](https://github.com/MozartArthur/Web/blob/master/22-09-2018(1).md "Введение JS")
-+  [Работа 7. Функции JS]( "Функции JS")
+## Экзамен 4 семестр
++ [FUNC-001](https://kodaktor.ru/g/task_func_457e8 "rgb")
++ [FUNC-002](https://kodaktor.ru/g/func_18ea8 "this")
++ [FUNC-003](https://kodaktor.ru/g/func_e13f7 "export")
++ [FUNC-004]()
++ [FUNC-005](https://kodaktor.ru/g/func_1177a)
++ [FUNC-006](https://kodaktor.ru/g/func_450d4 "square")
++ [FUNC-007]( https://kodaktor.ru/g/func_14be9 "recur_task")
++ [FUNC-008]()
++ [FUNC-009](https://kodaktor.ru/g/func_1625b)
++
